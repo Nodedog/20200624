@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf2afe80-da8e-4213-9f12-5e1f43ba7f21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eg86YXn2FZrZ6OCm9MVW310PYA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.TcpEchoClient">
+    <configuration name="TcpEchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TcpEchoClient" />
+      <module name="20200624" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpEchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TcpEchoServer" />
+      <module name="20200624" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TcpEchoClient" />
+        <item itemvalue="Application.TcpEchoServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf2afe80-da8e-4213-9f12-5e1f43ba7f21" name="Default Changelist" comment="" />
+      <created>1594731700068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594731700068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1594775466371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="674" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594775466371" />
+    <state x="649" y="191" key="FileChooserDialogImpl" timestamp="1594948042910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="649" y="191" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594948042910" />
+    <state x="812" y="318" width="272" height="291" key="Github.ShareDialog" timestamp="1594863007459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="812" y="318" width="272" height="291" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594863007459" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1594785784100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594785784100" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1594785784100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594785784100" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1594785784099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594785784099" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1594785784100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594785784100" />
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom" timestamp="1594785784100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594785784100" />
+    <state width="1493" height="223" key="GridCell.Tab.1.center" timestamp="1594785784100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594785784100" />
+    <state width="1493" height="223" key="GridCell.Tab.1.left" timestamp="1594785784100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594785784100" />
+    <state width="1493" height="223" key="GridCell.Tab.1.right" timestamp="1594785784100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594785784100" />
+    <state x="549" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1595055771874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595055771874" />
+    <state x="356" y="6" key="new project wizard" timestamp="1594861087618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="6" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594861087618" />
+  </component>
+</project>
